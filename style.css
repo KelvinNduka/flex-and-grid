@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: rgb(248, 245, 245);
+}
+
+main{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    padding-top: 20%;
+    padding-bottom: 20%
+
+}
+.first-content{
+    background-color: hsl(31, 77%, 52%);
+    padding: 1cm;
+    border-radius: 10px 0px 0px 10px;
+    
+
+}
+.first-content h3{
+    font-family:'Gill Sans';
+    font-weight: 700;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    color: white;
+    
+    
+}
+.first-content p{
+    font-size: 15px;
+    font-family:'Lucida Sans Regular';
+    font-weight: 400;
+    padding-bottom: 80px;
+    color: white;
+
+}
+.first-content BUtton{
+    font-family: 'Lucida Sans Regular';
+    font-size: 15px;
+    font-weight: 400;
+    color:rgb(231, 69, 69) ;
+    background-color: azure;
+    border: 0px;
+    border-radius: 80px;
+    width: 105%;
+    margin: auto;
+    height: 10%;
+    font-weight: 400;
+    
+    overflow: hidden;
+   
+    
+}
+.second-content{
+    background-color: hsl(184, 100%, 22%);
+    border-radius: 0px;
+    padding: 1cm;
+}
+
+.second-content h3{
+    font-family:'Gill Sans';
+    font-weight: 700;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    color: white;
+}
+.second-content p{
+    font-size: 15px;
+    font-family:'Lucida Sans Regular';
+    font-weight: 400;
+    padding-bottom: 80px;
+    color: white;
+}
+.second-content BUtton{
+    font-family: 'Lucida Sans Regular';
+    font-size: 15px;
+    font-weight: 400;
+    color:rgb(231, 69, 69) ;
+    background-color: azure;
+    border: 0px;
+    border-radius: 100px;
+    width: 105%;
+    margin: auto;
+    height: 10%;
+    font-weight: 400;
+    overflow: hidden;
+}
+.third-content{
+    background-color: hsl(179, 100%, 13%);
+    border-radius: 0px;
+    padding: 1cm;
+    border-radius: 0px 10px 10px 0px;
+}
+.third-content h3{
+    font-family:'Gill Sans';
+    font-weight: 700;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    color: white;
+}
+.third-content p{
+    font-size: 15px;
+    font-family:'Lucida Sans Regular';
+    font-weight: 400;
+    padding-bottom: 65px;
+    color: white;
+}
+.third-content BUtton{
+    font-family: 'Lucida Sans Regular';
+    font-size: 15px;
+    font-weight: 400;
+    color:rgb(231, 69, 69) ;
+    background-color: azure;
+    border: 0px;
+    border-radius: 100px;
+    width: 105%;
+    margin: auto;
+    height: 10%;
+    font-weight: 400;
+    overflow: hidden;
+} 
